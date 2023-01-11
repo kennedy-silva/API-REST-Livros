@@ -1,2 +1,2 @@
 # API-REST-Livros
-API REST local com Python para gerenciamento de uma biblioteca de livros
+API REST local feita com Flask para gerenciamento de uma biblioteca de livros
